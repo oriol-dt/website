@@ -61,7 +61,7 @@ nav {
 }
 
 .portrait {
-  width: 300px;
+  width: 30px;
   border-radius: var(--border-radius);
   flex-shrink: 0;
 }
